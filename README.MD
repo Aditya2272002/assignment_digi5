@@ -1,5 +1,7 @@
 # Article Fetcher Application
 
+#Deployed URL: https://assignment-digi5-4gq1boeh0-adi22mauryagmailcoms-projects.vercel.app/
+
 ## Overview
 The Article Fetcher Application is designed to fetch articles from Time.com, display them in a list format, and provide additional features such as search functionality and summary generation. The application is built with a responsive design to ensure a smooth experience across various devices and screen sizes. It includes error handling to manage and display issues gracefully.
 
