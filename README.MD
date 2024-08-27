@@ -1,6 +1,7 @@
 # Article Fetcher Application
 
 Deployed URL: https://assignment-digi5-4gq1boeh0-adi22mauryagmailcoms-projects.vercel.app/
+
 Video Link: https://youtu.be/nrj4JAKwl8g
 
 ## Overview
